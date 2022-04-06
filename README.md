@@ -1,3 +1,7 @@
+
+## Documentation
+See the detailed explanation on this article - https://technostuf.com/react-dropzone-example/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
